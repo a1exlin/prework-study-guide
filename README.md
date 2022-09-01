@@ -13,7 +13,11 @@
 
 ## Installation
 
+<<<<<<< HEAD
  N/A
+=======
+N/A
+>>>>>>> db03728351fe7787486501a0b9a6ab178a83ea9e
 
 ## Usage
 
