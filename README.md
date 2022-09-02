@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # prework-study-guide
 study guide for bootcamp
 
-=======
+
 # <Prework Study Guide Webpage>
 
 ## Description
@@ -31,4 +31,4 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
->>>>>>> db03728351fe7787486501a0b9a6ab178a83ea9e
+
